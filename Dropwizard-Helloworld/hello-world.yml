@@ -1,0 +1,20 @@
+logging:
+  level: INFO
+  loggers:
+    helloworld: DEBUG
+template: Hello, %s!
+defaultName: Stranger
+
+server:
+  applicationConnectors:
+    - type: https
+      port: 8080
+      keyStorePath: KeyStore.jks
+      keyStorePassword: customerxxxstore1
+      keyStoreType: JKS
+      supportedCipherSuites: # optional
+        - TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+        - TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+  adminConnectors:
+    - type: http
+      port: 8081

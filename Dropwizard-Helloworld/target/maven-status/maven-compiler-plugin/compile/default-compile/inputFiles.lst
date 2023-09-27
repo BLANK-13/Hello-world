@@ -1,0 +1,15 @@
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/core/NetworkInfoService.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/HelloWorldConfiguration.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/constants/Paths.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/core/SystemInfoService.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/health/SystemInfoHealthCheck.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/api/SystemInfo.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/HelloWorldApplication.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/api/Processor.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/resources/NetworkInfoResource.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/health/TemplateHealthCheck.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/health/NetworkInfoHealthCheck.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/resources/SystemInfoResource.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/resources/HelloWorldResource.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/api/Saying.java
+/home/pc-724/Documents/projects/Dropwizard-Helloworld/src/main/java/helloworld/api/NetworkInfo.java

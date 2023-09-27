@@ -1,0 +1,15 @@
+helloworld/constants/Paths.class
+helloworld/resources/SystemInfoResource.class
+helloworld/health/TemplateHealthCheck.class
+helloworld/health/NetworkInfoHealthCheck.class
+helloworld/api/Processor.class
+helloworld/core/SystemInfoService.class
+helloworld/health/SystemInfoHealthCheck.class
+helloworld/core/NetworkInfoService.class
+helloworld/api/Saying.class
+helloworld/HelloWorldApplication.class
+helloworld/api/SystemInfo.class
+helloworld/api/NetworkInfo.class
+helloworld/resources/NetworkInfoResource.class
+helloworld/resources/HelloWorldResource.class
+helloworld/HelloWorldConfiguration.class
